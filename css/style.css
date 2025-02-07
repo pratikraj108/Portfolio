@@ -260,7 +260,7 @@ a:hover{
     margin-bottom: 10px;
 }
 .section_heading h2 span{
-	color: #F95353;
+	color: #37c9f9;
 	font-size: 50px;
     font-weight: 900;
 }
@@ -268,7 +268,7 @@ a:hover{
 	color: #fff;
 }
 .dark_bg .section_heading h2 span{
-	color: #F95353;
+	color: #37c9f9;
 	font-size: 50px;
     font-weight: 900;
 }
@@ -280,14 +280,14 @@ a:hover{
     bottom: -5px;
     position: relative;
     left: 50%;
-    background-color: #F95353;
+    background-color: #37c9f9;
     -webkit-transform: translate(-50%, 0);
     -ms-transform: translate(-50%, 0);
     transform: translate(-50%, 0);
 }
 .section_heading span{
 	font-weight: 400;
-	color: #F95353;
+	color: #0279a0;
 }
 /* End Section-Heading */
 
@@ -308,9 +308,9 @@ a:hover{
     padding: 15px 20px;
     letter-spacing: 0.5px;
 	font-weight: 600;
-	border: 3px solid #F95353;
+	border: 3px solid #0279a0;
 	border-radius: 20px;
-    background: #F95353;
+    background: #0279a0;
     line-height: 10px;
     -webkit-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out 0s;
@@ -318,7 +318,7 @@ a:hover{
 .main_btn:hover{
     color: #222;
     background: #fff;
-	border: 3px solid #F95353;
+	border: 3px solid #0279a0;
 }
 .blog-info .blog_btn{
     padding: 20px 30px;
@@ -338,8 +338,8 @@ a:hover{
     width: 100%;
     padding: 20px 0;
     background: #fff;
-    transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
 }
 .navbar-brand p{
     font-size: 32px;
@@ -432,7 +432,7 @@ a:hover{
 	background-repeat: no-repeat;
 }
 .banner_bg{
-	background-image: url(../images/back3.jpg);
+	background-image: url(/images/bg.webp);
 	background-size: cover;
 	background-position: center center;
 	position: relative;
